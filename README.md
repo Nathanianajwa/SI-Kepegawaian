@@ -3,8 +3,11 @@ Source Code Sistem Informasi Kepegawaian (SIMPEG) with Laravel 8.0
 
 ## Tugas Pengkodean dan Pemrograman
 Nama : Nathania Najwa Aureliya Risdiana
+
 NIM  : 12030122140278
+
 Kelas: D
+
 Referensi Web: https://github.com/saifulriza/sistem-informasi-kepegawaian
 
 ## Halaman Depan Sebelum di Modifikasi
