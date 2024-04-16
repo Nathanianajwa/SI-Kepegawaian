@@ -26,6 +26,9 @@ Referensi Web: https://github.com/saifulriza/sistem-informasi-kepegawaian
 Pada halaman ini, terdapat perbedaan dengan "Halaman Depan Sebelum di Modifikasi" yaitu terletak pada ujung kanan atas yaitu kata "Simpeg" menjadi "Nathania Najwa", dan mengubah kata "WE WORK HARD, WE RESULT PERFECT" menjadi "INNOVATIVE CREDIBLE RESPECT DASHING RESPONSIBLE"
 ![alt text](https://github.com/Nathanianajwa/SI-Kepegawaian/blob/main/Halaman%20Setelah%20di%20Edit.png?raw=true)
 
+## ERD Sistem Informasi Kepegawaian
+![alt text](https://github.com/Nathanianajwa/SI-Kepegawaian/blob/main/ERD%20Sistem%20Informasi%20Kepegawaian.png?raw=true)
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
